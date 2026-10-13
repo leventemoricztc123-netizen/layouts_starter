@@ -1,6 +1,6 @@
 .el--1 {
   background-color: blueviolet;
-  flex-grow: 1;
+  flex: 1 1 300px;
 }
 
 .el--2 {
@@ -11,7 +11,6 @@
 .el--3 {
   background-color: green;
   /* height: 150px; */
-    flex-grow: 1;
 }
 
 .el--4 {
@@ -20,24 +19,20 @@
 }
 
 .el--5 {
-  background-color: palevioletred;
-  flex-grow: 1;
+  background-color: palevioletred; 
 }
 
 .el--6 {
   background-color: steelblue;
-  flex-grow: 1;
   align-self: flex-end;
 }
 
 .el--7 {
   background-color: yellow;
-  flex-grow: 1;
 }
 
 .el--8 {
   background-color: crimson;
-  flex-grow: 1;
 }
 
 .container {
